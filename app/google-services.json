@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1071965162595",
+    "firebase_url": "https://tokyoesp32-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tokyoesp32",
+    "storage_bucket": "tokyoesp32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071965162595:android:5df7ab8062b5352ad1fc56",
+        "android_client_info": {
+          "package_name": "com.example.tokyo_remote_control"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPX8Dsw8P4O4IAyMqHTMTWbOKkVYeotz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
